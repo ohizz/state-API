@@ -5,8 +5,8 @@
       "state": "Abia",
       "capital": "Umuahia",
       "nolocalgov": 17,
-      "appellation": "God's own state",
-      "political zone": "South east"
+      "appellation": "God's Own State",
+      "political zone": "South East"
     },
 
     {
@@ -14,8 +14,8 @@
       "state": "Adamawa",
       "capital": "Yola",
       "nolocalgov": 20,
-      "appellation": "Land of beauty",
-      "political zone": "North east"
+      "appellation": "Land of Beauty",
+      "political zone": "North East"
     },
 
     {
@@ -23,17 +23,275 @@
       "state": "Akwa-Ibom",
       "capital": "Uyo",
       "nolocalgov": 31,
-      "appellation": "Land of fulfilment",
-      "political zone": "South south"
+      "appellation": "Land of Fulfilment",
+      "political zone": "South South"
     },
 
     {
-      "id":3,
+      "id":4,
       "state": "Anambra",
       "capital": "Akwa",
       "nolocalgov": 21,
-      "appellation": "The light of the Nation",
-      "political zone": "South east"
+      "appellation": "The Light of the Nation",
+      "political zone": "South East"
+    },
+
+      {
+      "id":5,
+      "state": "Bauchi",
+      "capital": "Bauchi",
+      "nolocalgov": 20,
+      "appellation": "Home of Peace and Hospitality",
+      "political zone": "North West"
+    },
+
+      {
+      "id":6,
+      "state": "Bayelsa",
+      "capital": "Yenagoa",
+      "nolocalgov": 32,
+      "appellation": "The Glory of all Lands",
+      "political zone": "South South"
+    },
+      {
+      "id":7,
+      "state": "Benue",
+      "capital": "Makurdi",
+      "nolocalgov": 22,
+      "appellation": "Food Basket of the Nation",
+      "political zone": "North Central"
+    },
+      {
+      "id":8,
+      "state": "Borno",
+      "capital": "Maiduguri",
+      "nolocalgov": 27,
+      "appellation": "Home of Peace",
+      "political zone": "North East"
+    },
+      {
+      "id":9,
+      "state": "Cross River",
+      "capital": "Calabar",
+      "nolocalgov": 18,
+      "appellation": "The People's Paradise",
+      "political zone": "South South"
+    },
+      {
+      "id":10,
+      "state": "Delta",
+      "capital": "Asaba",
+      "nolocalgov": 25,
+      "appellation": "The Big Heart of the Nation",
+      "political zone": "South South"
+    },
+      {
+      "id":11,
+      "state": "Ebonyi",
+      "capital": "Abakaliki",
+      "nolocalgov": 12,
+      "appellation": "Salt of the Nation",
+      "political zone": "South East"
+    },
+      {
+      "id":12,
+      "state": "Edo",
+      "capital": "Benin City",
+      "nolocalgov": 18,
+      "appellation": "The Heart Beat of the Nation",
+      "political zone": "South South"
+    },
+      {
+      "id":13,
+      "state": "Ekiti",
+      "capital": "Ado-Ekiti",
+      "nolocalgov": 16,
+      "appellation": "The Fountain of Knowledge",
+      "political zone": "South West"
+    },
+      {
+      "id":14,
+      "state": "Enugu",
+      "capital": "Enugu",
+      "nolocalgov": 17,
+      "appellation": "Coal City Sate",
+      "political zone": "South East"
+    },
+      {
+      "id":15,
+      "state": "Gombe",
+      "capital": "Gombe",
+      "nolocalgov": 11,
+      "appellation": "Jewel of the Savannah",
+      "political zone": "North East"
+    },
+      {
+      "id":16,
+      "state": "Imo",
+      "capital": "Owerri",
+      "nolocalgov": 27,
+      "appellation": "Eastern Heart Land",
+      "political zone": "South East"
+    },
+      {
+      "id":17,
+      "state": "Jigawa",
+      "capital": "Dutse",
+      "nolocalgov": 27,
+      "appellation": "New World",
+      "political zone": "North West"
+    },
+      {
+      "id":18,
+      "state": "Kaduna",
+      "capital": "Kaduna",
+      "nolocalgov": 23,
+      "appellation": "Liberal Sate",
+      "political zone": "South West"
+    },
+      {
+      "id":19,
+      "state": "Kano",
+      "capital": "Kano",
+      "nolocalgov": 44,
+      "appellation": "Centre of Commerce",
+      "political zone": "Norh West"
+    },
+      {
+      "id":20,
+      "state": "Katsina",
+      "capital": "Katsina",
+      "nolocalgov": 34,
+      "appellation": "State of Hospitality",
+      "political zone": "North Central"
+    },
+      {
+      "id":21,
+      "state": "Kebbi",
+      "capital": "Birnin Kebbi",
+      "nolocalgov": 22,
+      "appellation": "Land of Equity",
+      "political zone": "North West"
+    },
+      {
+      "id":22,
+      "state": "Kogi",
+      "capital": "Lokoja",
+      "nolocalgov": 20,
+      "appellation": "The Confluence State",
+      "political zone": "North Central"
+    },
+         {
+      "id":23,
+      "state": "Kwara",
+      "capital": "Ilorin",
+      "nolocalgov": 16,
+      "appellation": "State of Harmony",
+      "political zone": "North Central"
+    },
+         {
+      "id":24,
+      "state": "Lagos",
+      "capital": "Ikeja",
+      "nolocalgov": 20,
+      "appellation": "Centre of Excellence",
+      "political zone": "South West"
+    },
+         {
+      "id":25,
+      "state": "Nassarawa",
+      "capital": "Lafia",
+      "nolocalgov": 13,
+      "appellation": "Home of Solid Mineral",
+      "political zone": "North Central"
+    },
+         {
+      "id":26,
+      "state": "Niger",
+      "capital": "Minna",
+      "nolocalgov": 25,
+      "appellation": "The Power State",
+      "political zone": "North Central"
+    },
+         {
+      "id":27,
+      "state": "Ogun",
+      "capital": "Abeokuta",
+      "nolocalgov": 19,
+      "appellation": "The Gateway State",
+      "political zone": "South West"
+    },
+         {
+      "id":28,
+      "state": "Ondo",
+      "capital": "Akure",
+      "nolocalgov": 18,
+      "appellation": "The Sunshine State",
+      "political zone": "South West"
+    },
+         {
+      "id":29,
+      "state": "Osun",
+      "capital": "Osogbo",
+      "nolocalgov": 28,
+      "appellation": "State of Living Spring",
+      "political zone": "South West"
+    },
+         {
+      "id":30,
+      "state": "Oyo",
+      "capital": "Ibadan",
+      "nolocalgov": 32,
+      "appellation": "Pace Setter State",
+      "political zone": "South West"
+    },
+         {
+      "id":31,
+      "state": "Plateau",
+      "capital": "Jos",
+      "nolocalgov": 17,
+      "appellation": "Home of Peace and Tourism",
+      "political zone": "North Central"
+    },
+         {
+      "id":32,
+      "state": "Rivers",
+      "capital": "Portharcourt",
+      "nolocalgov": 22,
+      "appellation": "Treasure Base of the Nation",
+      "political zone": "South South"
+    },
+         {
+      "id":33,
+      "state": "Sokoto",
+      "capital": "Sokoto",
+      "nolocalgov": 22,
+      "appellation": "Seat of the Caliphate",
+      "political zone": "North West"
+    },
+         {
+      "id":34,
+      "state": "Taraba",
+      "capital": "Jalingo",
+      "nolocalgov": 15,
+      "appellation": "Nature's Gift of the Nation",
+      "political zone": "North East"
+    },
+         {
+      "id":35,
+      "state": "Yobe",
+      "capital": "Damaturu",
+      "nolocalgov": 17,
+      "appellation": "The Young Shall Grow",
+      "political zone": "North East"
+    },
+         {
+      "id":36,
+      "state": "Zamfara",
+      "capital": "Gusua",
+      "nolocalgov": 14,
+      "appellation": "Farming is our Pride",
+      "political zone": "North West"
     }
 
   ]
