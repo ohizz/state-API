@@ -292,6 +292,14 @@
       "nolocalgov": 14,
       "appellation": "Farming is our Pride",
       "political zone": "North West"
+    },
+     {
+      "id":37,
+      "state": "Abuja",
+      "capital": "FCT",
+      "nolocalgov": 6,
+      "appellation": "Centre of Unity",
+      "political zone": "North Central"
     }
 
   ]
